@@ -5,12 +5,19 @@ This is a standalone .exe application for predicting and visualizing protein sol
 Theoretical Protein Solubility Curve Visualization:
 
 Adjust the theoretical curve parameters using sliders.
+
 View the predicted protein solubility curves based on adjustable parameters:
+
 A: Curve parameter
+
 B: Treatment-related parameter
+
 T<sub>d</sub>: Temperature of denaturation
+
 K: Weight of two curve components
+
 ΔT<sub>d</sub>: Temperature difference
+
 The theoretical curve is displayed dynamically as you adjust the sliders.
 # Fitting Experimental Data:
 
@@ -33,10 +40,15 @@ Step 2: Adjust Theoretical Curve Parameters
 Once the application opens, you will see sliders on the left side. You can use these sliders to adjust the parameters that define the shape of the theoretical protein solubility curves.
 
 A: Curve shape parameter
+
 T<sub>d</sub> (B): Temperature of denaturation of control sample
+
 ΔT<sub>d</sub> (T): Temperature difference parameter
+
 K: Weight of two components in the curve
+
 B: Treatment parameter
+
 As you modify the sliders, the plot of the theoretical solubility curves will update in real-time.
 
 Step 3: Load Experimental Data
