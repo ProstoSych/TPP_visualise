@@ -67,7 +67,9 @@ TEMPERATURE,CONTROL,TREATMENT
 315,0.55,0.65
 
 320,0.6,0.7
+
 ...
+
 TEMPERATURE: List of temperature values in degrees of Kelvin.
 
 CONTROL: Measured values for the control group.
