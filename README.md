@@ -33,10 +33,10 @@ R² scores are dynamically updated as you modify the sliders.
 
 The application displays the equations used for the theoretical model next to the sliders as a visual reference.
 # How to Use the Application
-Step 1: Run the Application
+# Step 1: Run the Application
 The program is provided as a standalone .exe file. Simply double-click on the executable to launch the application. No installation of Python or other dependencies is required.
 
-Step 2: Adjust Theoretical Curve Parameters
+# Step 2: Adjust Theoretical Curve Parameters
 Once the application opens, you will see sliders on the left side. You can use these sliders to adjust the parameters that define the shape of the theoretical protein solubility curves.
 
 A: Curve shape parameter
@@ -51,7 +51,7 @@ B: Treatment parameter
 
 As you modify the sliders, the plot of the theoretical solubility curves will update in real-time.
 
-Step 3: Load Experimental Data
+# Step 3: Load Experimental Data
 To load experimental data:
 
 Click the "Load Experimental Data" button.
@@ -59,25 +59,34 @@ Select a CSV file that contains your experimental data.
 The CSV file should have the following structure:
 
 csv
+
 TEMPERATURE,CONTROL,TREATMENT
+
 310,0.5,0.6
+
 315,0.55,0.65
+
 320,0.6,0.7
 ...
 TEMPERATURE: List of temperature values in degrees of Kelvin.
+
 CONTROL: Measured values for the control group.
+
 TREATMENT: Measured values for the treated group.
-Step 4: View and Compare Experimental Data
+
+# Step 4: View and Compare Experimental Data
+
 Once your data is loaded:
 
 The experimental points will be plotted on the graph.
 The application will automatically fit the theoretical model to the experimental data using non-linear curve fitting.
 Both the fitted curves and the experimental data points will be displayed, and the R² values will be calculated to show how well the theoretical model fits the data.
-Step 5: Adjust Parameters After Loading Data
+
+# Step 5: Adjust Parameters After Loading Data
 After loading experimental data, you can continue adjusting the sliders to further refine the fit of the theoretical model. As you adjust the parameters, the R² values will update in real-time, allowing you to see how different parameter combinations improve or worsen the fit.
 
-Step 6: Close the Application
+# Step 6: Close the Application
 When you are done using the application, you can close it by clicking the "X" button in the window or using the appropriate shortcut for closing programs on your system.
 
-Requirements
+# Requirements
 Since this is a standalone executable file, you do not need to install Python or any external libraries. Simply download the .exe file and run it on your Windows machine.
