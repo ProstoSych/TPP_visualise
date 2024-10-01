@@ -21,7 +21,7 @@ K: Weight of two curve components
 The theoretical curve is displayed dynamically as you adjust the sliders.
 # Fitting Experimental Data:
 
-Load your experimental data to compare with theoretical predictions.
+Load your non-normalized experimental data to compare with theoretical predictions.
 The program fits the experimental data using curve fitting and calculates the R² score for each fit.
 Visualize both the experimental data points and the fitted curves.
 # Real-Time Interactive Adjustment:
