@@ -90,5 +90,8 @@ After loading experimental data, you can continue adjusting the sliders to furth
 # Step 6: Close the Application
 When you are done using the application, you can close it by clicking the "X" button in the window or using the appropriate shortcut for closing programs on your system.
 
+# Test Running
+You can use the experimental data files bpnt_test.csv and ttl12_test.csv as examples of the application's functionality. Download the data from the Releases page and use them to explore the application's features.
+
 # Requirements
 Since this is a standalone executable file, you do not need to install Python or any external libraries. Simply download the .exe file and run it on your Windows machine.
