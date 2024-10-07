@@ -92,3 +92,7 @@ You can use the experimental data files bpnt_test.csv and ttl12_test.csv as exam
 
 # Requirements
 Since this is a standalone executable file, you do not need to install Python or any external libraries. Simply download the .exe file and run it on your Windows machine.
+
+
+# Download and process data
+You can get the research data by using notebook Download_and_process_data.ipynb.
