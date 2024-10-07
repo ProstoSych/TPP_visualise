@@ -1,0 +1,146 @@
+File Name,Sample ID,Path,Instrument Method,Process Method,Position,Inj Vol
+blank_01,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+CytocromeC_01,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE7,0.4
+CytocromeC_02,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE7,1
+CytocromeC_03,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE7,1
+CytocromeC_04,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE7,0.4
+CytocromeC_05,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE7,0.4
+CytocromeC_08,50 fm,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE7,0.5
+11052022_Hela_01,200 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,1
+11052022_Hela_02,200 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,1
+11052022_Hela_03,500 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,2.5
+11052022_Hela_04,500 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,2.5
+QEHFX_JB_000239,TPP_59C_K1_1 ,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA2,0.5
+QEHFX_JB_000240,TPP_59C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA2,1.5
+QEHFX_JB_000241,TPP_59C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA3,1.5
+QEHFX_JB_000242,TPP_59C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA4,1.5
+QEHFX_JB_000243,TPP_59C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA5,1.5
+QEHFX_JB_000244,TPP_59C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA6,1.5
+blank_02,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000245,TPP_59C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA7,1.5
+QEHFX_JB_000246,TPP_59C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA8,1.5
+QEHFX_JB_000247,TPP_59C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB1,1.5
+QEHFX_JB_000248,TPP_59C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB2,1.5
+QEHFX_JB_000249,TPP_59C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB3,1.5
+blank_03,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000250,TPP_56C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB4,1.5
+QEHFX_JB_000251,TPP_56C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB5,1.5
+QEHFX_JB_000252,TPP_56C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB6,1.5
+QEHFX_JB_000253,TPP_56C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB7,1.5
+QEHFX_JB_000254,TPP_56C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB8,1.5
+blank_04,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000255,TPP_56C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC1,1.5
+QEHFX_JB_000256,TPP_56C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC2,1.5
+QEHFX_JB_000257,TPP_56C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC3,1.5
+QEHFX_JB_000258,TPP_56C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC4,1.5
+QEHFX_JB_000259,TPP_56C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC5,1.5
+blank_05,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000260,TPP_53C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC6,1.5
+QEHFX_JB_000261,TPP_53C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC7,1.5
+QEHFX_JB_000262,TPP_53C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC8,1.5
+QEHFX_JB_000263,TPP_53C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD1,1.5
+QEHFX_JB_000264,TPP_53C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD2,1.5
+blank_06,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000265,TPP_53C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD3,1.5
+QEHFX_JB_000266,TPP_53C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD4,1.5
+QEHFX_JB_000267,TPP_53C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD5,1.5
+QEHFX_JB_000268,TPP_53C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD6,1.5
+QEHFX_JB_000269,TPP_53C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD7,1.5
+blank_07,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000270,TPP_67C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GD8,1.5
+QEHFX_JB_000271,TPP_67C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE1,1.5
+QEHFX_JB_000272,TPP_67C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE2,1.5
+QEHFX_JB_000273,TPP_67C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE3,1.5
+QEHFX_JB_000274,TPP_67C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE4,1.5
+blank_08,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000275,TPP_67C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE5,1.5
+QEHFX_JB_000276,TPP_67C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE6,1.5
+QEHFX_JB_000277,TPP_67C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE7,1.5
+QEHFX_JB_000278,TPP_67C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GE8,1.5
+QEHFX_JB_000279,TPP_67C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA1,1.5
+blank_09,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+11052022_Hela_05,500 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,2.5
+blank_10,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000280,TPP_44C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA2,1.5
+QEHFX_JB_000281,TPP_44C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA3,1.5
+QEHFX_JB_000282,TPP_44C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA4,1.5
+QEHFX_JB_000283,TPP_44C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA5,1.5
+QEHFX_JB_000284,TPP_44C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA6,1.5
+blank_11,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000285,TPP_44C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA7,1.5
+QEHFX_JB_000286,TPP_44C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BA8,1.5
+QEHFX_JB_000287,TPP_44C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB1,1.5
+QEHFX_JB_000288,TPP_44C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB2,1.5
+QEHFX_JB_000289,TPP_44C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB3,1.5
+blank_12,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000290,TPP_50C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB4,1.5
+QEHFX_JB_000291,TPP_50C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB5,1.5
+QEHFX_JB_000292,TPP_50C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB6,1.5
+QEHFX_JB_000293,TPP_50C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB7,1.5
+QEHFX_JB_000294,TPP_50C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BB8,1.5
+blank_13,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000295,TPP_50C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC1,1.5
+QEHFX_JB_000296,TPP_50C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC2,1.5
+QEHFX_JB_000297,TPP_50C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC3,1.5
+QEHFX_JB_000298,TPP_50C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC4,1.5
+QEHFX_JB_000299,TPP_50C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC5,1.5
+blank_14,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000300,TPP_41C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC6,1.5
+QEHFX_JB_000301,TPP_41C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC7,1.5
+QEHFX_JB_000302,TPP_41C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC8,1.5
+QEHFX_JB_000303,TPP_41C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD1,1.5
+QEHFX_JB_000304,TPP_41C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD2,1.5
+blank_15,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000305,TPP_41C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD3,1.5
+QEHFX_JB_000306,TPP_41C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD4,1.5
+QEHFX_JB_000307,TPP_41C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD5,1.5
+QEHFX_JB_000308,TPP_41C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD6,1.5
+QEHFX_JB_000309,TPP_41C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD7,1.5
+blank_16,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000310,TPP_47C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BD8,1.5
+QEHFX_JB_000311,TPP_47C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE1,1.5
+QEHFX_JB_000312,TPP_47C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE2,1.5
+QEHFX_JB_000313,TPP_47C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE3,1.5
+QEHFX_JB_000314,TPP_47C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE4,1.5
+blank_17,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000315,TPP_47C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE5,1.5
+QEHFX_JB_000316,TPP_47C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE6,1.5
+QEHFX_JB_000317,TPP_47C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE7,1.5
+QEHFX_JB_000318,TPP_47C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BE8,1.5
+QEHFX_JB_000319,TPP_47C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE6,1.5
+blank_18,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+blank_19,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+11052022_Hela_06,500 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,2.5
+blank_20,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000259_1,TPP_56C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC5,1.5
+QEHFX_JB_000259_2,TPP_56C_T5_1 2 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC5,3
+QEHFX_JB_000320,TPP_63C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA2,1.5
+QEHFX_JB_000321,TPP_63C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA3,1.5
+QEHFX_JB_000322,TPP_63C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA4,1.5
+QEHFX_JB_000323,TPP_63C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA5,1.5
+QEHFX_JB_000324,TPP_63C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA6,1.5
+blank_21,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000325,TPP_63C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA7,1.5
+QEHFX_JB_000326,TPP_63C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA8,1.5
+QEHFX_JB_000327,TPP_63C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB1,1.5
+QEHFX_JB_000328,TPP_63C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB2,1.5
+QEHFX_JB_000329,TPP_63C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB3,1.5
+blank_22,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000330,TPP_37C_K1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB4,1.5
+QEHFX_JB_000331,TPP_37C_K2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB5,1.5
+QEHFX_JB_000332,TPP_37C_K3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB6,1.5
+QEHFX_JB_000333,TPP_37C_K4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB7,1.5
+QEHFX_JB_000334,TPP_37C_K5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GB8,1.5
+blank_23,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000335,TPP_37C_T1_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC1,1.5
+QEHFX_JB_000336,TPP_37C_T2_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC2,1.5
+QEHFX_JB_000337,TPP_37C_T3_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC3,1.5
+QEHFX_JB_000338,TPP_37C_T4_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC4,1.5
+QEHFX_JB_000339,TPP_37C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GC5,1.5
+blank_24,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+blank_25,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+11052022_Hela_07,500 ng,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,GA1,2.5
+blank_26,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+blank_27,blank,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,RE8,0.2
+QEHFX_JB_000299_1,TPP_50C_T5_1 1 ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC5,1.5
+QEHFX_JB_000299_2,TPP_50C_T5_1 2ug,C:\Xcalibur\data\Julia,C:\Xcalibur\data\Zgoda\110522_JB\MS1_late_valve_swich_1e6_1ms,,BC5,3
