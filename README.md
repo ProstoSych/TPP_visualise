@@ -88,7 +88,7 @@ Both the fitted curves and the experimental data points will be displayed, and t
 After loading experimental data, you can continue adjusting the sliders to further refine the fit of the theoretical model. As you adjust the parameters, the R² values will update in real-time, allowing you to see how different parameter combinations improve or worsen the fit.
 
 # Test Running
-You can use the experimental data files bpnt_test.csv and ttl12_test.csv as examples of the application's functionality. Download the data from the Releases page and use them to explore the application's features.
+You can use the experimental data files BPNT_HUMAN.csv and TTL12_HUMAN.csv as examples of the application's functionality. Download the data from the Releases page and use them to explore the application's features.
 
 # Requirements
 Since this is a standalone executable file, you do not need to install Python or any external libraries. Simply download the .exe file and run it on your Windows machine.
